@@ -1,1 +1,1 @@
-Dự án này do Duy phụ trách UI.
+Dự án này do Đăng phụ trách UI.
